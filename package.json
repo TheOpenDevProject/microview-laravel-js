@@ -1,0 +1,18 @@
+{
+  "name": "microview",
+  "version": "1.0.0",
+  "description": "Maybe the smallest JS framework for app development ever made. It doesn't do much.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "*",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "webpack": "^3.11.0"
+  }
+}
