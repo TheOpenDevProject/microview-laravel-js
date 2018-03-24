@@ -18,3 +18,5 @@ export class App{
         return this;
     }
 }
+
+module.exports = App;
