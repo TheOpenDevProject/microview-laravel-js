@@ -1,4 +1,4 @@
-class Widget {
+export class Widget {
     constructor({
         globalWidget = false,
         widgetRouteUrl,
@@ -67,5 +67,3 @@ class Widget {
         console.log(this._shouldWidgetInit());
     }
 }
-
-export default Widegt;
