@@ -67,5 +67,3 @@ export class Widget {
         console.log(this._shouldWidgetInit());
     }
 }
-
-module.exports = Widget;
